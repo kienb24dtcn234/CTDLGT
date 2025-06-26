@@ -43,7 +43,7 @@ int main() {
         }
     }
     if (!found) {
-        printf("\nSinh vien khong ton tai\n");
+        printf("\nSinh vien can tim kiem khong ton tai\n");
     }
 
     return 0;
