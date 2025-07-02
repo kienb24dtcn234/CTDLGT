@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c4ffb859-5b43-49ed-8490-2c685b410794" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/.idea/PTIT_CNTT5_IT201_Session08_Bai01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/Ex1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai01/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/.idea/PTIT_CNTT5_IT201_Session08_Bai02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/Ex2.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai02/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/.idea/PTIT_CNTT5_IT201_Session08_Bai03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/Ex3.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai03/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/.idea/PTIT_CNTT5_IT201_Session08_Bai04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/Ex4.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai04/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/.idea/PTIT_CNTT5_IT201_Session08_Bai05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/Ex5.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai05/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/.idea/PTIT_CNTT5_IT201_Session08_Bai06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/Ex6.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai06/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/.idea/PTIT_CNTT5_IT201_Session08_Bai07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/Ex7.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Session08/PTIT_CNTT5_IT201_Session08_Bai07/main.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2025" />
+    <option name="minorVersion" value="1.2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2zJHtqyscHMTzxpigJdmzneygO9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4ffb859-5b43-49ed-8490-2c685b410794" name="Changes" comment="" />
+      <created>1751442473294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751442473294</updated>
+      <workItem from="1751442474333" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
