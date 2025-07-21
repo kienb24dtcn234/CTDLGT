@@ -119,7 +119,7 @@ int main() {
             scanf(" %[^\n]s", song.title);
             enqueue(&nextQueue, song);
             printf("Da them bai hat '%s' vao hang doi!\n", song.title);
-        } else if (strcmp(choice, "PLAY NEXT") == 0) {
+        } else if (strcmp(choice, "PLAYNEXT") == 0) {
             if (!isQueueEmpty(&nextQueue)) {
                 struct Song song = dequeue(&nextQueue);
                 push(&historyStack, song);
